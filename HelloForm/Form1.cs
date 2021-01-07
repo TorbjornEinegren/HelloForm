@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace HelloForm
 {
-    public partial class Form1 : Form
+    public partial class HelloForm : Form
     {
-        public Form1()
+        public HelloForm()
         {
             InitializeComponent();
+            //Test for new commentt
         }
     }
 }
